@@ -1,0 +1,32 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+}
+
+#header{
+    background: #000;
+    height: 200px;
+}
+
+#brandname{
+    color: yellow;
+    float: left;
+}
+
+#brandname span{
+    color:red;
+}
+
+.list-items ul a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.list-items ul li{
+    list-style-type: none;
+    display: inline;
+}
+
